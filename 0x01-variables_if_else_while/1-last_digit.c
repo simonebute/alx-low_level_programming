@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Main - Main function
+ * Main - main function
  *
- * Return: Always success
+ * Return: always success
  */
 int main(void)
 {
