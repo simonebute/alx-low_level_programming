@@ -2,8 +2,8 @@
 
 /**
 * _strcpy - copies the string
-* @dest: input value
-* @src: input value
+* @dest: destination input value
+* @src: source input value
 * @n: input value
 * Return: dest
 */
