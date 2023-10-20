@@ -2,9 +2,9 @@
 
 /**
 * reverse_array - reverses an array of numbers
-* @a: arrays
-* @n: array of numbers
-* Return: void
+* @a: array of integers to be reversed
+* @n: array of numbers included
+*
 */
 
 void reverse_array(int *a, int n)
@@ -19,6 +19,6 @@ void reverse_array(int *a, int n)
 		a[i] = a[n];
 		a[n] = t;
 	}
-	
+
 }
 
