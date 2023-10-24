@@ -2,7 +2,7 @@
 
 /**
 * print_chessboard - entry point
-* @: array
+* @a: array
 * return: always 0 (success)
 */
 
