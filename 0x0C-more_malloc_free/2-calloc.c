@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
- * simple_print_buffer - prints buffer in hexa
- * @buffer: the address of memory to print
+ * _calloc - allocates specified memory and initializes to zero
+ * @nmemb: number of members
  * @size: the size of the memory to print
  *
  * Return: Nothing.
